@@ -22,7 +22,7 @@ A simple **ATM simulation system** built in Java using **Swing for GUI** and **O
 
 ##  Project Structure
 
-```plaintext
+
 ATM.java              
 Bank.java             
 Account.java         
